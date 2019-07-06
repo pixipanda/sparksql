@@ -1,0 +1,9 @@
+cc_num long
+trans_num string
+trans_time timestamp
+category string
+merchant string
+amt double
+merch_lat double
+merch_long douuble
+is_fraud int
